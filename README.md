@@ -12,7 +12,7 @@
 [“My Pookalam centers on a lotus, symbolizing purity and positivity. The surrounding layers of petals, squares, and spirographs reflect unity and festive energy, with vibrant gradients bringing balance and celebration.”]
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](output.jpg)
 Add more images if you have multiple views or animations
 
 ### Features
