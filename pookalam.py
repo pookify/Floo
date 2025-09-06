@@ -251,13 +251,21 @@ petal_circ_t.pencolor("white")
 petal_circ_t.pensize(0.5)
 
 num_circles = 10
+# fill_colors = [
+#     "#FF3E75", 
+#     "#FF6F91",
+#     "#FF91AF",
+#     "#FF5F75",
+#     "#FF8F91",
+#     "#FF9FEF"
+# ]
 fill_colors = [
-    "#FF3E75", 
-    "#FF6F91",
-    "#FF91AF",
-    "#FF5F75",
-    "#FF8F91",
-    "#FF9FEF"
+    "#800080",
+    "#DA70D6",
+    "#E6E6FA",
+    "#87CEEB",
+    "#40E0D0",
+    "#000080"
 ]
 big_radii = [
     50,
@@ -346,7 +354,7 @@ Central Lotus - Test
 sq_t = turtle.Turtle()
 sq_t.speed(0)
 
-sq_t.pencolor("black")
+sq_t.pencolor("white")
 sq_t.pensize(2)
 
 fill_colors = [
